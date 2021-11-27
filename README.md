@@ -1,5 +1,5 @@
 # MiniDEproject
-Crawler Exchange information from Binance  
+## Crawler Exchange information from Binance  
 Python scritp to:  
   Interactive with PostgresSQL database by psycopg2  
   CreateDB: 2 table: exchangeinfo (exchange metadata), klinesdata (candle stick data for some exchange pair)  
